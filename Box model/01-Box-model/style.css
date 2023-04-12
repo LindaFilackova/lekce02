@@ -3,3 +3,6 @@ html { box-sizing: border-box; }
 *, ::after, ::before { box-sizing: inherit; }
 
 
+h1 {
+    border: 10px solid red
+}
